@@ -1,0 +1,44 @@
+$large-width: 1280px !default;
+
+.Container
+{
+  display: inherit;
+  width: $large-width;
+  margin: 0 auto;
+  //background: rgba(red,.1);
+}
+
+.Spacer
+{
+  visibility: hidden;
+  margin: auto;
+}
+
+.HLayout, .VLayout
+{
+  display: flex;
+}
+
+.HLayout
+{
+  flex-direction: row;
+}
+
+.VLayout
+{
+  flex-direction: column;
+}
+
+// DEBUG
+
+.HLayout, .VLayout
+{
+  border: 1px dashed orangered;
+  padding: 8px;
+  box-sizing: border-box;
+}
+
+.Flexible
+{
+  flex: 1;
+}

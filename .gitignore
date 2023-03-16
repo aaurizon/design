@@ -1,0 +1,10 @@
+# Build files
+*.css
+*.css.map
+*.sass.map
+*.scss.map
+
+# IDE
+/.idea
+/src/*.css
+/src/**.css

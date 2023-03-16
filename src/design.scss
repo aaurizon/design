@@ -1,0 +1,72 @@
+/*! design.css v1.0.0 | MIT License | github.com/aaurizon/design */
+/*!
+ * Copyright 2022 AAURIZON SAS. All Rights Reserved.
+ *
+ * Licensed under the MIT License, SPDX short identifier: MIT;
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      https://opensource.org/license/mit/
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+// Base
+@import "functions";
+@import "mixins";
+@import "style";
+@import "reset/normalize";
+
+// Common - Content
+@import "common/typography";
+//@import "common/typography";
+//@import "common/image";
+//@import "common/icon";
+//@import "common/form";
+
+// Common - Structure
+//@import "common/container";
+@import "common/layout";
+//@import "common/grid";
+//@import "common/table";
+
+// Component
+@import "component/button";
+//@import "component/accordion";
+//@import "component/alerts";
+//@import "component/badge";
+//@import "component/breadcrumb";
+//@import "component/cuttons";
+//@import "component/cutton group";
+//@import "component/card";
+//@import "component/carousel";
+//@import "component/close button";
+//@import "component/collapse";
+//@import "component/dropdowns";
+//@import "component/list group";
+//@import "component/modal";
+//@import "component/navbar";
+//@import "component/navs";
+//@import "component/tabs";
+//@import "component/offcanvas";
+//@import "component/pagination";
+//@import "component/placeholders";
+//@import "component/popovers";
+//@import "component/progress";
+//@import "component/scrollspy";
+//@import "component/spinners";
+//@import "component/toasts";
+//@import "component/tooltips";
+
+
+
+
+
+
+
+
+
